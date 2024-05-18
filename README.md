@@ -1,6 +1,6 @@
 # Easy CMake build of libtheora
 
-This is simplified multiplatform build of libtheora using CMake. Everything but the source files and the original copyright notice is removed. Assembly accelerated functions are removed (the x86 code is worthless anyway if the goal is to have x86_64 binaries). The `liboog` source files are already included (no external dependency).
+This is simplified multiplatform build of libtheora using CMake. Everything but the source files and the original copyright notice is removed. Assembly accelerated functions are removed (the x86 code is worthless anyway if the goal is to have x86_64 binaries). The `libogg` source files are already included (no external dependency).
 
 
 ### Building
